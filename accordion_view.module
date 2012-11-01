@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the accordion_view feature.
+ */
+
+include_once 'accordion_view.features.inc';
